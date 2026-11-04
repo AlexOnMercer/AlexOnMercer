@@ -50,19 +50,26 @@ them — and spend my spare time on open-source infrastructure, where the intere
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexOnMercer&show_icons=true&hide_border=true&theme=github_dark&icon_color=58A6FF&title_color=58A6FF&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexOnMercer&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexOnMercer&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexOnMercer&theme=default" alt="Profile summary" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexOnMercer&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexOnMercer&theme=default" alt="Repos per language" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOnMercer&layout=compact&hide_border=true&theme=github_dark&title_color=58A6FF&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexOnMercer&layout=compact&hide_border=true" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexOnMercer&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexOnMercer&theme=default" alt="Most used languages" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexOnMercer&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexOnMercer&theme=github-light&hide_border=true" alt="Contribution activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AlexOnMercer&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=AlexOnMercer&hide_border=true" alt="Contribution streak" />
 </picture>
 
 <br/><br/>
